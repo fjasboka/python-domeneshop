@@ -46,4 +46,4 @@ Documentation
 
 Coming soon.
 
-In the meantime, see the docstrings for `domeneshop.client.Client <src/domeneshop/client.py>`_.
+In the meantime, see the docstrings for `domeneshop.client.Client <domeneshop/client.py>`_.
